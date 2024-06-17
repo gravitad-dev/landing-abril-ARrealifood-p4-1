@@ -5,9 +5,9 @@ const Projects = () => {
   const { title, projects } = data['section-six'];
 
   return (
-    <section className='py-[100px]' id='projects'>
+    <section className='py-[100px] mb-20' id='projects'>
       <h2 className='subtitle mb-[30px]'>{title}</h2>
-      <div className='grid grid-cols-1 md:grid-cols-2 gap-[80px] md:gap-[20px]'>
+      <div className='grid grid-cols-1 md:grid-cols-2 gap-[200px] md:gap-[20px]'>
         {projects.map((p) => (
           <ProjectsItem key={p.id} {...p} />
         ))}
