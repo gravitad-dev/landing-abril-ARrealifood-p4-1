@@ -1,9 +1,9 @@
 {
   "logo": {
-    "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715095021/ivsmclgfd3uf1qwpo0f3.svg",
-    "alt": "logo webpage",
-    "title": "logo webpage",
-    "text": "Nexcent"
+    "url": "/DataMinderLogo.png",
+    "alt": "logo DataMinder",
+    "title": "logo DataMinder",
+    "text": "DataMinder"
   },
   "section-nav": {
     "links": [
@@ -64,51 +64,20 @@
     }
   },
   "section-one": {
-    "slides": [
-      {
-        "id": 1,
-        "text": {
-          "black": "Lessons and insights",
-          "green": "from 8 years"
-        },
-        "desc": "Where to grow your business as a photographer: site or social media?",
-        "img": {
-          "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715093957/hero-section/aga9uudzix9hdszyqix3.svg",
-          "alt": "men view desktop",
-          "title": "men view desktop"
-        }
-      },
-      {
-        "id": 2,
-        "text": {
-          "black": "Lessons and insights",
-          "green": "from 8 years"
-        },
-        "desc": "Where to grow your business as a photographer: site or social media?",
-        "img": {
-          "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715093957/hero-section/aga9uudzix9hdszyqix3.svg",
-          "alt": "men view desktop",
-          "title": "men view desktop"
-        }
-      },
-      {
-        "id": 3,
-        "text": {
-          "black": "Lessons and insights",
-          "green": "from 8 years"
-        },
-        "desc": "Where to grow your business as a photographer: site or social media?",
-        "img": {
-          "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715093957/hero-section/aga9uudzix9hdszyqix3.svg",
-          "alt": "men view desktop",
-          "title": "men view desktop"
-        }
-      }
-    ]
+    "text": {
+      "black": "Who",
+      "green": "We Are"
+    },
+    "desc": "At Dataminder, we are a team of passionate innovators dedicated to harnessing the power of AI and Big Data to drive impactful change. Our experts blend technology and creativity to deliver cutting-edge solutions that empower businesses to make data-driven decisions.",
+    "img": {
+      "url": "/hero-img.png",
+      "alt": "big data image",
+      "title": "big data image"
+    }
   },
   "section-two": {
-    "title": "Our Clients",
-    "desc": "We have been working with some Fortune 500+ clients",
+    "title": "Those Who Have Trusted Us",
+    "desc": "From startups to Fortune 500 companies, Dataminder has been the trusted partner for organizations across various industries. Our clients include leading companies in finance, healthcare, retail, and technology, all of whom have experienced the transformative power of our AI and Big Data solutions.",
     "items": [
       {
         "id": 1,
@@ -169,7 +138,7 @@
     ]
   },
   "section-three": {
-    "title": "Manage your entire community in a single system",
+    "title": "Three Key Highlights of Dataminder",
     "desc": "Who is Nextcent suitable for?",
     "items": [
       {
@@ -178,8 +147,8 @@
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715094280/memberships-icons/uj4vithqpk9xlobmupms.svg",
           "title": "title icon"
         },
-        "title": "Membership Organisations",
-        "desc": "Our membership management software provides full automation of membership renewals and payments"
+        "title": "Advanced AI and Big Data Solutions:",
+        "desc": "We leverage cutting-edge AI and Big Data technologies to provide innovative services that transform business operations and enhance decision-making processes."
       },
       {
         "id": 2,
@@ -187,8 +156,8 @@
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715094280/memberships-icons/mjxigdyddlcznxqf1czn.svg",
           "title": "title icon"
         },
-        "title": "National Associations",
-        "desc": "Our membership management software provides full automation of membership renewals and payments"
+        "title": "Customized Service Offerings:",
+        "desc": "Our solutions are tailored to meet the unique needs of each client, ensuring that our AI and Big Data services are relevant and effective for their specific business challenges."
       },
       {
         "id": 3,
@@ -196,8 +165,8 @@
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715094280/memberships-icons/yxqhzirn8xur8bjkhirr.svg",
           "title": "title icon"
         },
-        "title": "Clubs And Groups",
-        "desc": "Our membership management software provides full automation of membership renewals and payments"
+        "title": "Expert Team:",
+        "desc": "Our team consists of highly skilled professionals with deep expertise in AI and Big Data, dedicated to delivering high-quality, impactful solutions."
       }
     ]
   },
@@ -211,13 +180,17 @@
     }
   },
   "section-five": {
-    "text": "Maecenas dignissim justo eget nulla rutrum molestie. Maecenas lobortis sem dui, vel rutrum risus tincidunt ullamcorper. Proin eu enim metus. Vivamus sed libero ornare, tristique quam in, gravida enim. Nullam ut molestie arcu, at hendrerit elit. Morbi laoreet elit at ligula molestie, nec molestie mi blandit. Suspendisse cursus tellus sed augue ultrices, quis tristique nulla sodales. Suspendisse eget lorem eu turpis vestibulum pretium. Suspendisse potenti. Quisque malesuada enim sapien, vitae placerat ante feugiat eget. Quisque vulputate odio neque, eget efficitur libero condimentum id. Curabitur id nibh id sem dignissim finibus ac sit amet magna.",
-    "name": "Tim Smith",
-    "desc": "British Dragon Boat Racing Association",
+    "text": "Why Trust Us",
+    "desc": [
+      "Proven Track Record: We have successfully transformed data into strategic assets for numerous clients.",
+      "Transparency: We maintain clear communication and offer full visibility into our processes and methodologies.",
+      "Client-Centric: Your success is our priority, and we work tirelessly to ensure you achieve your goals.",
+      "Secure and Compliant: We adhere to the highest standards of data security and compliance."
+    ],
     "img": {
-      "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715105734/pqx6hcbxqcopedxxyoz6.jpg",
-      "alt": "alt of img",
-      "title": "title of img"
+      "url": "/trust-us-img.jpeg",
+      "alt": "trus us image",
+      "title": "trus us image"
     }
   },
   "section-six": {
@@ -226,20 +199,20 @@
       {
         "id": 1,
         "img": {
-          "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715106632/projects/z3hqj5118srqqmehjjgi.jpg",
+          "url": "project-bigdata.jpg",
           "alt": "alt img",
           "title": "title img"
         },
-        "title": "Creating Streamlined Safeguarding Processes with OneRen"
+        "title": "Mission: Our mission is to provide businesses with the insights they need to thrive in a data-centric world. We leverage AI and Big Data to unlock new opportunities, optimize operations, and create value, ensuring our clients stay ahead in a rapidly evolving digital landscape."
       },
       {
         "id": 2,
         "img": {
-          "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715106645/projects/mkjrxhj1sxzwdczucjhl.jpg",
+          "url": "project-ia.jpg",
           "alt": "alt img",
           "title": "title img"
         },
-        "title": "Creating Streamlined Safeguarding Processes with OneRen"
+        "title": "Vision: To be the leading provider of AI and Big Data solutions, revolutionizing how businesses understand and utilize their data. We aim to create a future where every organization, regardless of size, can harness the full potential of their data to achieve extraordinary outcomes."
       }
     ]
   },
@@ -253,15 +226,15 @@
   },
   "section-eigth": {
     "text": {
-      "black": "Helping a local",
-      "green": "business reivent itself"
+      "black": "What Makes",
+      "green": "Us Different"
     },
     "desc": "We reached here with our hard work and dedication",
     "items": [
       {
         "id": 1,
-        "number": "2,245,341",
-        "text": "Members",
+        "number": "Innovative Solutions:",
+        "text": " We stay at the forefront of technology to provide you with the most advanced AI and Big Data tools.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715111293/stats-icons/oieo9ett7izskatvesgv.svg",
           "alt": "alt of icon",
@@ -270,8 +243,8 @@
       },
       {
         "id": 2,
-        "number": "46,328",
-        "text": "Clubs",
+        "number": "Tailored Approach:",
+        "text": "Our solutions are customized to meet the unique needs of each client.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715115325/stats-icons/fmee5u8pmev8p9biv05z.svg",
           "alt": "alt of icon",
@@ -280,8 +253,8 @@
       },
       {
         "id": 3,
-        "number": "828,867",
-        "text": "Event Bookings",
+        "number": "Expert Team:",
+        "text": "Our team consists of industry-leading experts with a deep understanding of AI and Big Data.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715111294/stats-icons/pmyffwrdamgcdfgr72du.svg",
           "alt": "alt of icon",
@@ -290,8 +263,8 @@
       },
       {
         "id": 4,
-        "number": "1,926,436",
-        "text": "Payments",
+        "number": "Commitment to Excellence:",
+        "text": "We are dedicated to delivering high-quality solutions that drive real results.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715111294/stats-icons/cskbzqnxna9hlubl33lc.svg",
           "alt": "alt of icon",
