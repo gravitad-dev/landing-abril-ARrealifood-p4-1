@@ -8,7 +8,7 @@ const ProjectsItem = ({ title, img }) => {
         src={img.url}
         alt={img.alt}
         title={img.title}
-        className='w-full h-full object-cover'
+        className='w-full h-full object-cover rounded-md'
       />
       <div
         className='

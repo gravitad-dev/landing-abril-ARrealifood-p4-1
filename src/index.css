@@ -32,7 +32,7 @@ body {
 }
 
 .paragraph {
-  @apply text-[14px] text-custom-grey my-2;
+  @apply text-[14px] text-custom-grey my-4;
 }
 
 .radius {
