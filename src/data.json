@@ -199,7 +199,7 @@
       {
         "id": 1,
         "img": {
-          "url": "project-bigdata.jpg",
+          "url": "project-bigdata.jpeg",
           "alt": "alt img",
           "title": "title img"
         },
@@ -229,7 +229,6 @@
       "black": "What Makes",
       "green": "Us Different"
     },
-    "desc": "We reached here with our hard work and dedication",
     "items": [
       {
         "id": 1,
