@@ -20,7 +20,7 @@ const Info = () => {
           {desc.map((p, idx) => (
             <li className='paragraph ' key={idx}>
               <b>{p.split(':')[0]}:</b>
-              <p>{p}</p>
+              <p>{p.split(':')[1]}</p>
             </li>
           ))}
         </ul>
