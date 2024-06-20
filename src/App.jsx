@@ -30,15 +30,3 @@ function App() {
 }
 
 export default App;
-
-// {"id": 1, "icon": {"url": "", "alt": "", "title": ""}}
-
-// {
-//   "id": 1,
-//   "icon":{
-//     "url": "",
-//     "title": "title icon",
-//   },
-//   "title": "",
-//   "desc": ""
-// }
