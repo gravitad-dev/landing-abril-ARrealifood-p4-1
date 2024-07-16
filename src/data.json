@@ -9,42 +9,42 @@
     "links": [
       {
         "id": 1,
-        "text": "Home",
+        "text": "Principal",
         "href": "#home",
         "title": "home",
         "isExternal": false
       },
       {
         "id": 2,
-        "text": "Clients",
+        "text": "Clientes",
         "href": "#clients",
         "title": "Clients",
         "isExternal": false
       },
       {
         "id": 3,
-        "text": "Service",
+        "text": "Servicio",
         "href": "#service",
         "title": "Service",
         "isExternal": false
       },
       {
         "id": 4,
-        "text": "Product",
+        "text": "Producto",
         "href": "#product",
         "title": "Product",
         "isExternal": false
       },
       {
         "id": 5,
-        "text": "Testimonial",
+        "text": "Testimonio",
         "href": "#testimonial",
         "title": "Testimonial",
         "isExternal": false
       },
       {
         "id": 6,
-        "text": "Projects",
+        "text": "Proyectos",
         "href": "#projects",
         "title": "Projects",
         "isExternal": false
@@ -58,17 +58,17 @@
       }
     ],
     "button": {
-      "text": "Contact",
+      "text": "Contacto",
       "title": "Contact",
       "href": "mailto:8q5iO@example.com"
     }
   },
   "section-one": {
     "text": {
-      "black": "Who",
-      "green": "We Are"
+      "black": "¿Quiénes",
+      "green": "somos?"
     },
-    "desc": "At Dataminder, we are a team of passionate innovators dedicated to harnessing the power of AI and Big Data to drive impactful change. Our experts blend technology and creativity to deliver cutting-edge solutions that empower businesses to make data-driven decisions.",
+    "desc": "En Dataminder, somos un equipo de innovadores apasionados dedicados a aprovechar el poder de la IA y los Big Data para impulsar cambios impactantes. Nuestros expertos combinan tecnología y creatividad para ofrecer soluciones de vanguardia que permitan a las empresas tomar decisiones basadas en datos.",
     "img": {
       "url": "/hero-img.png",
       "alt": "big data image",
@@ -76,8 +76,8 @@
     }
   },
   "section-two": {
-    "title": "Those Who Have Trusted Us",
-    "desc": "From startups to Fortune 500 companies, Dataminder has been the trusted partner for organizations across various industries. Our clients include leading companies in finance, healthcare, retail, and technology, all of whom have experienced the transformative power of our AI and Big Data solutions.",
+    "title": "¿Quiénes han confiado en nosotros?",
+    "desc": "Desde empresas emergentes hasta empresas Fortune 500, Dataminder ha sido el socio confiable para organizaciones de diversas industrias. Nuestros clientes incluyen empresas líderes en finanzas, atención médica, comercio minorista y tecnología, todas las cuales han experimentado el poder transformador de nuestras soluciones de IA y Big Data.",
     "items": [
       {
         "id": 1,
@@ -130,8 +130,8 @@
     ]
   },
   "section-three": {
-    "title": "Three Key Highlights of Dataminder",
-    "desc": "Who is Nextcent suitable for?",
+    "title": "Tres aspectos destacados de Dataminder",
+    "desc": "",
     "items": [
       {
         "id": 1,
@@ -139,8 +139,8 @@
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715094280/memberships-icons/uj4vithqpk9xlobmupms.svg",
           "title": "title icon"
         },
-        "title": "Advanced AI and Big Data Solutions:",
-        "desc": "We leverage cutting-edge AI and Big Data technologies to provide innovative services that transform business operations and enhance decision-making processes."
+        "title": "Soluciones avanzadas de IA y Big Data:",
+        "desc": "aprovechamos las tecnologías de IA y Big Data de vanguardia para brindar servicios innovadores que transforman las operaciones comerciales y mejoran los procesos de toma de decisiones."
       },
       {
         "id": 2,
@@ -148,8 +148,8 @@
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715094280/memberships-icons/mjxigdyddlcznxqf1czn.svg",
           "title": "title icon"
         },
-        "title": "Customized Service Offerings:",
-        "desc": "Our solutions are tailored to meet the unique needs of each client, ensuring that our AI and Big Data services are relevant and effective for their specific business challenges."
+        "title": "Ofertas de servicios personalizados:Ofertas de servicios personalizados:",
+        "desc": "nuestras soluciones están diseñadas para satisfacer las necesidades únicas de cada cliente, garantizando que nuestros servicios de IA y Big Data sean relevantes y efectivos para sus desafíos comerciales específicos."
       },
       {
         "id": 3,
@@ -157,8 +157,8 @@
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715094280/memberships-icons/yxqhzirn8xur8bjkhirr.svg",
           "title": "title icon"
         },
-        "title": "Expert Team:",
-        "desc": "Our team consists of highly skilled professionals with deep expertise in AI and Big Data, dedicated to delivering high-quality, impactful solutions."
+        "title": "Equipo de expertos:",
+        "desc": "Nuestro equipo está formado por profesionales altamente capacitados con profunda experiencia en IA y Big Data, dedicados a brindar soluciones impactantes y de alta calidad."
       }
     ]
   },
@@ -166,18 +166,18 @@
     "title": "The unseen of spending three years at Pixelgrade",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta. Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec elementum pulvinar odio.",
     "btn": {
-      "text": "Read More",
+      "text": "Conoce Más",
       "title": "Read More",
       "href": "https://blog.dataminder.net/"
     }
   },
   "section-five": {
-    "text": "Why Trust Us",
+    "text": "¿Por qué confiar en nosotros?",
     "desc": [
-      "Proven Track Record: We have successfully transformed data into strategic assets for numerous clients.",
-      "Transparency: We maintain clear communication and offer full visibility into our processes and methodologies.",
-      "Client-Centric: Your success is our priority, and we work tirelessly to ensure you achieve your goals.",
-      "Secure and Compliant: We adhere to the highest standards of data security and compliance."
+      "Historial comprobado: Hemos transformado con éxito datos en activos estratégicos para numerosos clientes.",
+      "Transparencia: Mantenemos una comunicación clara y ofrecemos total visibilidad de nuestros procesos y metodologías.",
+      "Centrado en el cliente: Su éxito es nuestra prioridad y trabajamos incansablemente para garantizar que alcance sus objetivos.",
+      "Seguro y conforme: Cumplimos con los más altos estándares de seguridad y cumplimiento de datos."
     ],
     "img": {
       "url": "/marketing.jpg",
@@ -195,7 +195,7 @@
           "alt": "alt img",
           "title": "title img"
         },
-        "title": "Mission: Our mission is to provide businesses with the insights they need to thrive in a data-centric world. We leverage AI and Big Data to unlock new opportunities, optimize operations, and create value, ensuring our clients stay ahead in a rapidly evolving digital landscape."
+        "title": "Misión: Nuestra misión es brindar a las empresas la información que necesitan para prosperar en un mundo centrado en los datos. Aprovechamos la IA y Big Data para desbloquear nuevas oportunidades, optimizar operaciones y crear valor, garantizando que nuestros clientes se mantengan a la vanguardia en un panorama digital en rápida evolución."
       },
       {
         "id": 2,
@@ -204,28 +204,28 @@
           "alt": "alt img",
           "title": "title img"
         },
-        "title": "Vision: To be the leading provider of AI and Big Data solutions, revolutionizing how businesses understand and utilize their data. We aim to create a future where every organization, regardless of size, can harness the full potential of their data to achieve extraordinary outcomes."
+        "title": "Visión: Ser el proveedor líder de soluciones de IA y Big Data, revolucionando la forma en que las empresas entienden y utilizan sus datos. Nuestro objetivo es crear un futuro en el que todas las organizaciones, independientemente de su tamaño, puedan aprovechar todo el potencial de sus datos para lograr resultados extraordinarios."
       }
     ]
   },
   "section-seven": {
-    "title": "Contact",
+    "title": "Contáctanos",
     "btn": {
-      "text": "Contact",
+      "text": "Descubrir",
       "title": "Contact",
       "href": "mailto:8q5iO@example.com"
     }
   },
   "section-eigth": {
     "text": {
-      "black": "What Makes",
-      "green": "Us Different"
+      "black": "¿Qué nos ",
+      "green": "diferencia?"
     },
     "items": [
       {
         "id": 1,
-        "number": "Innovative Solutions:",
-        "text": " We stay at the forefront of technology to provide you with the most advanced AI and Big Data tools.",
+        "number": "Soluciones innovadoras:",
+        "text": "Nos mantenemos a la vanguardia de la tecnología para brindarle las herramientas de IA y Big Data más avanzadas.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715111293/stats-icons/oieo9ett7izskatvesgv.svg",
           "alt": "alt of icon",
@@ -234,8 +234,8 @@
       },
       {
         "id": 2,
-        "number": "Tailored Approach:",
-        "text": "Our solutions are customized to meet the unique needs of each client.",
+        "number": "Enfoque personalizado:",
+        "text": "Nuestras soluciones se personalizan para satisfacer las necesidades únicas de cada cliente.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715115325/stats-icons/fmee5u8pmev8p9biv05z.svg",
           "alt": "alt of icon",
@@ -244,8 +244,8 @@
       },
       {
         "id": 3,
-        "number": "Expert Team:",
-        "text": "Our team consists of industry-leading experts with a deep understanding of AI and Big Data.",
+        "number": "Equipo de expertos:",
+        "text": "nuestro equipo está formado por expertos líderes en la industria con un profundo conocimiento de IA y Big Data.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715111294/stats-icons/pmyffwrdamgcdfgr72du.svg",
           "alt": "alt of icon",
@@ -254,8 +254,8 @@
       },
       {
         "id": 4,
-        "number": "Commitment to Excellence:",
-        "text": "We are dedicated to delivering high-quality solutions that drive real results.",
+        "number": "Compromiso con la excelencia:",
+        "text": "estamos dedicados a brindar soluciones de alta calidad que generen resultados reales.",
         "icon": {
           "url": "https://res.cloudinary.com/dnlagz3wg/image/upload/v1715111294/stats-icons/cskbzqnxna9hlubl33lc.svg",
           "alt": "alt of icon",
