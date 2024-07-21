@@ -44,9 +44,9 @@
       },
       {
         "id": 6,
-        "text": "Proyectos",
+        "text": "Proyecto",
         "href": "#projects",
-        "title": "Projects",
+        "title": "Projectos",
         "isExternal": false
       },
       {
@@ -60,7 +60,8 @@
     "button": {
       "text": "Contacto",
       "title": "Contact",
-      "href": "mailto:8q5iO@example.com"
+      "href": "https://blog.dataminder.net/contacto/",
+      "isExternal": true
     }
   },
   "section-one": {
@@ -168,7 +169,8 @@
     "btn": {
       "text": "Conoce Más",
       "title": "Read More",
-      "href": "https://blog.dataminder.net/"
+      "href": "https://blog.dataminder.net/",
+      "isExternal": true
     }
   },
   "section-five": {
@@ -186,7 +188,7 @@
     }
   },
   "section-six": {
-    "title": "Projects",
+    "title": "Proyecto",
     "projects": [
       {
         "id": 1,
@@ -209,11 +211,12 @@
     ]
   },
   "section-seven": {
-    "title": "Contáctanos",
+    "title": "Descúbrenos",
     "btn": {
-      "text": "Descubrir",
-      "title": "Contact",
-      "href": "mailto:8q5iO@example.com"
+      "text": "Contáctanos",
+      "title": "Contáctanos",
+      "href": "https://blog.dataminder.net/contacto/",
+      "isExternal": true
     }
   },
   "section-eigth": {
