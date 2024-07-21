@@ -6,10 +6,14 @@ const Contact = () => {
   const { btn, title } = data['section-seven'];
 
   return (
-    <section className='py-[100px] text-center bg-custom-silver'>
-      <h2 className='subtitle mb-2'>{title}</h2>
+    <section className="py-[100px] text-center bg-custom-silver">
+      <h2 className="subtitle mb-2">{title}</h2>
       <CustomBtn>
-        <CustomLink text={btn.text} href={btn.href} />
+        <CustomLink
+          text={btn.text}
+          isExternal={btn.isExternal}
+          href={btn.href}
+        />
       </CustomBtn>
     </section>
   );

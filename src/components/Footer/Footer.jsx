@@ -1,11 +1,11 @@
-import data from "../../data.json";
-import SocialButtons from "../Socials";
-import CustomLink from "../ui/CustomLink";
-import Logo from "../ui/Logo";
+import data from '../../data.json';
+import SocialButtons from '../Socials';
+import CustomLink from '../ui/CustomLink';
+import Logo from '../ui/Logo';
 
 const Footer = () => {
-  const { links } = data["section-nav"];
-  const { text } = data["section-footer"];
+  const { links } = data['section-nav'];
+  const { text } = data['section-footer'];
 
   return (
     <footer className="footer footer-center p-10 bg-custom-neutral text-base-content rounded">
@@ -18,6 +18,7 @@ const Footer = () => {
             text={link.text}
             href={link.href}
             key={link.id}
+            isExternal={link.isExternal}
             colorText="text-custom-silver"
           />
         ))}
