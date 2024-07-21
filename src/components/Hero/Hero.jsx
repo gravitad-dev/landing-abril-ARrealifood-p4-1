@@ -14,14 +14,14 @@ const Hero = () => {
   const { text, desc, img } = data['section-one'];
 
   return (
-    <section id='home' className='bg-custom-silver pt-[150px] h-screen'>
-      <div className='flex  flex-col gap-[40px] md:flex-row md:items-center md:justify-around '>
+    <section id="home" className="bg-custom-silver pt-[150px] h-screen">
+      <div className="flex  flex-col gap-[40px] md:flex-row md:items-center md:justify-around ">
         {/* text */}
-        <div className='flex flex-col gap-4 text-center lg:text-left '>
-          <h1 className='title text-balance max-w-[600px]'>
-            {text.black} <span className='text-custom-green'>{text.green}</span>
+        <div className="flex flex-col gap-4 text-center lg:text-left ">
+          <h1 className="title text-balance max-w-[600px] px-2">
+            {text.black} <span className="text-custom-green">{text.green}</span>
           </h1>
-          <p className='text-[14px] md:text-[16px] text-custom-grey max-w-[700px]'>
+          <p className="text-[14px] md:text-[16px] text-custom-grey max-w-[700px] px-2">
             {desc}
           </p>
         </div>
@@ -29,7 +29,7 @@ const Hero = () => {
         <img
           src={img.url}
           alt={img.alt}
-          className='object-contain max-w-[600px] aspect-square'
+          className="object-contain max-w-[600px] aspect-square"
         />
       </div>
     </section>

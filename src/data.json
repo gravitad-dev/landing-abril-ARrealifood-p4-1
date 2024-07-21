@@ -59,7 +59,7 @@
     ],
     "button": {
       "text": "Contacto",
-      "title": "Contact",
+      "title": "Contacto",
       "href": "https://blog.dataminder.net/contacto/",
       "isExternal": true
     }
@@ -213,8 +213,8 @@
   "section-seven": {
     "title": "Descúbrenos",
     "btn": {
-      "text": "Contáctanos",
-      "title": "Contáctanos",
+      "text": "Contacto",
+      "title": "Contacto",
       "href": "https://blog.dataminder.net/contacto/",
       "isExternal": true
     }
