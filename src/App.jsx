@@ -10,6 +10,7 @@ import Projects from "./components/Projects/Projects";
 import Stats from "./components/Stats/Stats";
 import Layout from "./components/ui/Layout";
 
+//
 function App() {
   return (
     <main className="min-h-screen bg-[#fafafa]">
